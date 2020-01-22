@@ -1,11 +1,11 @@
 # Site settings
 author: Dan Foley
-title: 
+title: Dan's Super Sweet Tech Blog
 header-img: img/home-bg.png
 email: dan@dan-foley.com
 copyright_name: Dan Foley
 description: > # this means to ignore newlines until "baseurl:"
-  
+  the latest news 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  d-otis
