@@ -6,7 +6,7 @@ permalink:  blogerror_no_post_found_jk_embracing_error_messages
 ---
 
 
-![](https://info.sonicretro.org/images/f/fd/Sonic1_MD_LZ_AirBubble.png)
+![sonic](https://info.sonicretro.org/images/f/fd/Sonic1_MD_LZ_AirBubble.png)
 
 I can trace my frustrations with technology telling me "No" back to hours spent trying to pass the underwater levels of Sega Genesis' Sonic the Hedgehog. In this part of the game the blue hedgehog with Chiclet teeth couldn't last too long submerged without drawing air from air pockets and bubbles snaking up through the bottom of the screen. Whether it was drowning hedgehogs, mistyped MS-DOS commands on my father's 1990s work computer on loan from Bell Labs, or "debugging" a live camera feed to projector that was inexplicably missing certain projected colors only to discover one of the S-Video pins had become bent in apparent frustration. What I quickly learned was to embrace the clues that my broken systems were trying to show me. 
 
