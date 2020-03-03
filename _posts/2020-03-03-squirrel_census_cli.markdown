@@ -38,4 +38,5 @@ When implementing the `open_location_in_google_maps` class method I had a bit of
 
 ## Links
 [Squirrel Census CLI Walkthrough](https://www.youtube.com/watch?v=DyxNOYZZHww)
+
 [Squirrel Census CLI Github Repo](https://github.com/d-otis/squirrel_census_cli)
