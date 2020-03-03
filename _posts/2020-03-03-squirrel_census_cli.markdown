@@ -6,6 +6,7 @@ permalink:  squirrel_census_cli
 ---
 
 
+![screenshot](https://www.dan-foley.com/wp-content/uploads/2020/03/squirrel_cli.jpg)
 ## Features/Overview
 * List quantities of reported primary fur colors
 * List the max amount of squirrels per hectare
