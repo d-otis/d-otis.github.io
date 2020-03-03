@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Squirrel Census CLI"
-date:       2020-03-03 21:34:00 +0000
+date:       2020-03-03 16:34:01 -0500
 permalink:  squirrel_census_cli
 ---
 
@@ -18,7 +18,7 @@ permalink:  squirrel_census_cli
     4. Squirrel attributes is programmatically displayed
     5. User is asked if they want to drop a pin on Google Maps where that specific squirrel was seen
     6. If yes, user’s default browser is opened and Google Maps loads with pin dropped exactly where squirrel was counted
-    7. 
+
 ## Process
 
 I leafed through the datasets on NYC’s Open Data project and settled on the squirrel census since my partner and I have a running inside joke about an urban squirrel expert that we both know. I signed up for an app token and familiarized myself with the JSON output deciding how I was going to digest and use this data in my CLI. It was immediately apparent that I create a `Squirrel`, `Scraper`, and `CLI` class.
