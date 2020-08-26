@@ -18,7 +18,8 @@ Upon visiting the site. The user is presented with the option of navigating to e
 1. A fetch call to the API with the appropriate HTTP verb
 2. An update to our two global arrays: RESERVATIONS & ITEMS
 3. Any appropriate DOM updates if the User flow hasn't caused the rendering of a new page "View."
-4. 
+
+
 ### Items
 * from here a user can easily select Items that are current available (not reserved) and then create a new Reservation
 * just as easy the user can click the 'Add Items' button and add to the pre-existing Items inventory
