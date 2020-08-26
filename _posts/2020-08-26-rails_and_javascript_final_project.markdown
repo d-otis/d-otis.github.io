@@ -26,6 +26,8 @@ Upon visiting the site. The user is presented with the option of navigating to e
 
 ### Reservations
 * arriving at the Reservation index page a User is presented with the opition of Viewing or Deleting any of the listed Reservations
+*  once triggering a DOM render of the Reservation Show action/view the User is presented with the option of updating the Reservation textarea and adding or removing an Item
+*  if a User deletes all the Items the Reservation automatically is destroyed
 
 ## Process
 Following the guidance of the curriculum, I started small: one modal, one controller action, one DOM manipulation. Beginning with Items seemed to make the most sense. I moved onto the Items Index action and then onto building out the Reservation model, its Index action and finally its Show action.
