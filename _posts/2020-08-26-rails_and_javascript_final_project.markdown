@@ -35,3 +35,5 @@ Following the guidance of the curriculum, I started small: one modal, one contro
 It's easy to devolve into some serious spaghetti-code moments when you're setting out to do something like this for the first time. I periodically checked in with my cohort lead, DJ. He recommended some best practices that had become habits to him: like using separate files, separation of concerns, and trying to make fetch calls as dynamic as possible for each HTTP verb.
 
 Practicing the exercise of Red-Green-Refactor has proven to be incredibly beneficial in this SPA!
+
+After getting my MVP going I decided to go back and abstract-ify some of the table-making into a separate global function and it dried the hell outta my code! Whoa.
