@@ -19,4 +19,10 @@ Enter my final project: a Rate Your Landlord app!
 ## Process
 I started with my backend models, relationships, and Postgres database before slowly integrating by React frontend with some minimal Bootstrap styling. 
 
-One tricky aspect was making sure that attributes for properties and landlords were correctly updated on the backend as well as the front end. For my Rails API, I hit a lot of hurdles when it came to updating ratings using their before_action controller methods. After lots of headache, I scrapped using before_action and just triggered rating updates using instance methods in the Landlord and Properties model definitions. Within Redux on my front end I had to make sure that my Landlord reducer and Property reducer had case statements for '"ADD_REVIEW" in addition to their own model-specific CRUD cases.
+One tricky aspect was making sure that attributes for properties and landlords were correctly updated on the backend as well as the front end. 
+
+For my Rails API, I hit a lot of hurdles when it came to updating ratings using their before_action controller methods. After lots of headache, I scrapped using before_action and just triggered rating updates using instance methods in the Landlord and Properties model definitions. 
+
+Within Redux on my front end I had to make sure that my Landlord reducer and Property reducer had case statements for '"ADD_REVIEW" in addition to their own model-specific CRUD cases.
+
+
